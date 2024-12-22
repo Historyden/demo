@@ -1,0 +1,92 @@
+.button {
+background: #dadada;
+border: 1px solid;
+border-radius: 3px;
+font: 700 13px ;
+font-family: Algerian;
+font-size: 20px;
+height: 40px;
+line-height: 28px;
+padding: 0 20px;
+text-align: center;
+margin-right: 10px;
+box-sizing: border-box;
+cursor: grab;
+}
+ul {
+
+padding: 0;
+list-style: none;
+}
+li {
+
+    display: inline;
+}
+a {
+color: #666;
+text-decoration: none;
+float: left;
+}
+a:hover {
+color: #000;
+background-color: #dadada;
+}
+body {
+    background-image: url(AncientClock.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    z-index: -1;
+    text-align: center;
+    font-size: 35px;
+    }
+    head {
+    filter: blur(1000px);
+    } 
+ P.Red {
+        color: white;
+        font-size: 20px;
+        font-family: cambria;
+        text-decoration: underline;
+        border-color: black;
+        border-width: 3px;
+        border-style: solid;
+        Background-color: #B281DF;
+        }
+        P.Orange {
+            color: white;
+            font-size: 20px;
+            font-family: cambria;
+            text-decoration: underline;
+            border-color: black;
+            border-width: 3px;
+            border-style: solid;
+            Background-color: #B281DF;
+            }
+            P.Blue {
+                color: white;
+                font-size: 20px;
+                font-family: cambria;
+                text-decoration: underline;
+                border-color: black;
+                border-width: 3px;
+                border-style: solid;
+                Background-color: #B281DF;
+                }
+                P.Yellow {
+                    color: white;
+                    font-size: 20px;
+                    font-family: cambria;
+                    text-decoration: underline;
+                    border-color: black;
+                    border-width: 3px;
+                    border-style: solid;
+                    Background-color: #B281DF;
+                    }
+                    
+
+
+    body {
+        background-color: #666;
+    }
